@@ -7,9 +7,8 @@
   duration: 2021.02 ~ 2021.04
   # url: "#"
   skills: 사용 기술 &#58; Spring Boot, Java, MySQL, MyBatis
-  description: Spring Boot를 이용한 게시판 형태의 커뮤니티 웹 사이트를 제작
-  details: https://github.com/qlsdud0604/board 
-
+  description: Spring Boot를 이용하여 만든 게시판 형태의 커뮤니티
+  details: https://github.com/qlsdud0604/board
 
 # 운동시간 기록 애플리케이션
 - project: 운동시간 기록 애플리케이션
@@ -17,26 +16,26 @@
   duration: 2020.12 ~ 2021.01
   # url: "#"
   skills: 사용 기술 &#58; Android Studio, Java, Android Room, MPAndroidChart
-  description: Android Studio 이용한 운동시간을 기록하고 그래프로 확인할 수 있는 애플리케이션의 제작
+  description: Android Studio 이용하여 만든 운동 기록 애플리케이션
   details: https://github.com/qlsdud0604/exercise-record-application
 
 # 메모리 교체 정책
 - project: 메모리 교체 정책의 구현 및 모의실험
   duration: 2020.06 ~ 2020.06
   skills: 사용 기술 &#58; Java, Java GUI
-  description: 여러가지 메모리 교체 정책들을 구현하고 평가 기준에 따른 모의실험 진행
+  description: 여러가지 메모리 교체 정책들의 구현 및 모의실험
   details: https://github.com/qlsdud0604/memory-replacement-manager
 
 # CPU 스케줄링
 - project: CPU 스케줄링 기법의 구현 및 모의실험
   duration: 2020.05 ~ 2020.05
   skills: 사용 기술 &#58; Java, Java GUI
-  description: 여러가지 CPU 스케줄링 기법들을 구현하고 평가 기준에 따른 모의실험 진행
+  description: 여러가지 CPU 스케줄링 기법들의 구현 및 모의실험
   details: https://github.com/qlsdud0604/cpu-scheduler
 
 # 계산기
 - project: 자바 GUI 환경에서 작동하는 계산기
   duration: 2019.11 ~ 2019.11
   skills: 사용 기술 &#58; Java, Java GUI
-  description: Stack 자료구조를 이용하여 우선순위 연산을 지원하는 계산기를 Java GUI를 사용하여 제작
+  description: Java GUI를 이용하여 만든 우선순위 연산을 지원하는 계산기
   details: https://github.com/qlsdud0604/calculator

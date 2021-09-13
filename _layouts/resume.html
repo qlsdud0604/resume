@@ -13,7 +13,7 @@
 
       <!-- You can turn off the avatar in _config.yml by setting to false -->
       {% if site.resume_avatar == 'true' %}
-      <img src="images/avatar.jpg" alt="my photo" class="avatar no-print" itemprop="image">
+      <img src="images/profile.png" alt="my photo" class="avatar no-print" itemprop="image">
       {% endif %}
 
       <!-- Your name is defined in the _config.yml file -->
@@ -137,7 +137,7 @@
         <meta itemprop="creator" content="{{ site.resume_name }}" itemtype="http://schema.org/Person" />
         <h3 class="resume-item-title" itemprop="name">{% if project.url %}<a href="{{ project.url }}" itemprop="url">{{
             project.project }}</a>{% else %}{{ project.project }}{% endif %}</h3>
-        <h4 class="resume-item-details" itemprop="description">{{ project.duration }}</h4>
+        <h4 class="resume-item-details" itemprop="description">기간 : {{ project.duration }}</h4>
         <p style="font-family:'Lucida Sans'; margin: 0 0 .2rem;">&bull; {{ project.skills }}</p>
         <p style="font-family:'Lucida Sans'; margin: 0 0 .2rem;">&bull; {{ project.description }}</p>
         <a href="{{ project.details }}"
