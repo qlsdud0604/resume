@@ -9,19 +9,19 @@ sass:
   style: compressed
 
 # Resume settings
-resume_avatar:                  "true"
-resume_name:                    "임빈영"
-resume_title:                   "반갑습니다. 임빈영입니다."
+resume_avatar: "true"
+resume_name: "임빈영"
+resume_title: "반갑습니다. 임빈영입니다."
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "qlsdud960604@gmail.com"
+resume_contact_email: "qlsdud960604@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "555-7334"
-resume_contact_address:         "742 Evergreen Terrace, Springfield"
+resume_contact_telephone: "555-7334"
+resume_contact_address: "742 Evergreen Terrace, Springfield"
 
-resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
-display_header_contact_info:    "false"
+resume_header_contact_info: "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
+display_header_contact_info: "false"
 
 # resume_header_intro: "<p>백엔드 개발자를 꿈꾸는 임빈영입니다.</p>"
 
@@ -29,15 +29,15 @@ display_header_contact_info:    "false"
 # "no" to display an "I'm not looking for work" message,
 # or remove the resume_looking_for_work option entirely
 # to leave blank
-resume_looking_for_work:        ""
+resume_looking_for_work: ""
 
 # Decide which sections to use
 # comment out to hide
-resume_section_links:           true   # 인적사항
-resume_section_education:       true   # 학력사항
-resume_section_recognition:     true   # 어학 및 자격증
+resume_section_links: true # 인적사항
+resume_section_education: true # 학력사항
+resume_section_recognition: true # 어학 및 자격증
 # resume_section_experience:      true   # 경험
-resume_section_projects:        true   # 프로젝트
+resume_section_projects: true # 프로젝트
 # resume_section_skills:          true
 # resume_section_associations:    true
 # resume_section_interests:       true
@@ -45,19 +45,18 @@ resume_section_projects:        true   # 프로젝트
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  # resume_github_url:            "https://github.com/qlsdud0604"
+  resume_github_url: "https://github.com/qlsdud0604"
   # resume_twitter_url:           "http://twitter.com/jglovier"
   # resume_dribbble_url:          "https://dribbble.com/jag"
   # resume_facebook_url:          "insert Facebook URL here"
   # resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
   # resume_instagram_url:         "insert your Instagram URL here"
-  # resume_website_url:           "http://joelglovier.com"
+  resume_website_url: "https://qlsdud0604.tistory.com/"
   # resume_medium_url:            "https://medium.com/@jglovier"
-resume_print_social_links:      false
+resume_print_social_links: true
 
 # Design settings
-resume_theme:                   default
-
+resume_theme: default
 # Note: when editing locally, remember to restart
 # your Jekyll server when you edit this file. Changes
 # to _config.yml are only recognized when the server starts

@@ -1,12 +1,21 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
+# 채팅 애플리케이션
+- project: 채팅 애플리케이션
+  role:
+  duration: 2021.09
+  # url: "#"
+  skills: 기술 스택 &#58; Spring Boot, JavaScript, Java, Maven, Lombok, Mongo DB
+  description: Spring Boot를 이용하여 만든 채팅 애플리케이션
+  details: https://github.com/qlsdud0604/chat-app
+
 # 게시판 형태의 커뮤니티
 - project: 게시판 형태의 커뮤니티
   role:
   duration: 2021.02 ~ 2021.04
   # url: "#"
-  skills: 사용 기술 &#58; Spring Boot, Java, MySQL, MyBatis
+  skills: 기술 스택 &#58; Spring Boot, Java, Thymeleaf, Gradle, Lombok, MySQL, MyBatis
   description: Spring Boot를 이용하여 만든 게시판 형태의 커뮤니티
   details: https://github.com/qlsdud0604/board
 
@@ -15,27 +24,27 @@
   role:
   duration: 2020.12 ~ 2021.01
   # url: "#"
-  skills: 사용 기술 &#58; Android Studio, Java, Android Room, MPAndroidChart
+  skills: 기술 스택 &#58; Android Studio, Java, MPAndroidChart, Android Room
   description: Android Studio 이용하여 만든 운동 기록 애플리케이션
   details: https://github.com/qlsdud0604/exercise-record-application
 
 # 메모리 교체 정책
 - project: 메모리 교체 정책의 구현 및 모의실험
-  duration: 2020.06 ~ 2020.06
-  skills: 사용 기술 &#58; Java, Java GUI
+  duration: 2020.06
+  skills: 기술 스택 &#58; Java, Java GUI
   description: 여러가지 메모리 교체 정책들의 구현 및 모의실험
   details: https://github.com/qlsdud0604/memory-replacement-manager
 
 # CPU 스케줄링
 - project: CPU 스케줄링 기법의 구현 및 모의실험
-  duration: 2020.05 ~ 2020.05
-  skills: 사용 기술 &#58; Java, Java GUI
+  duration: 2020.05
+  skills: 기술 스택 &#58; Java, Java GUI
   description: 여러가지 CPU 스케줄링 기법들의 구현 및 모의실험
   details: https://github.com/qlsdud0604/cpu-scheduler
 
 # 계산기
 - project: 자바 GUI 환경에서 작동하는 계산기
-  duration: 2019.11 ~ 2019.11
-  skills: 사용 기술 &#58; Java, Java GUI
+  duration: 2019.11
+  skills: 기술 스택 &#58; Java, Java GUI
   description: Java GUI를 이용하여 만든 우선순위 연산을 지원하는 계산기
   details: https://github.com/qlsdud0604/calculator
